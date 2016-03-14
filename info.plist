@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>contactName</key>
+	<string>Snorre</string>
+	<key>description</key>
+	<string>New shiny bundle for otool.</string>
+	<key>name</key>
+	<string>otool</string>
+	<key>uuid</key>
+	<string>89C7468D-ADDA-46B2-A219-F11B9CF1EF8C</string>
+</dict>
+</plist>
